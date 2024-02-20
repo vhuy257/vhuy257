@@ -1,5 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
+<p></p>
 <h3 align="center">A passionate Frontend developer from VietNam</h3>
 - 💬 Ask me about **React, Next.js**
 - 📫 How to reach me **vhu2y571990@gmail.com**
