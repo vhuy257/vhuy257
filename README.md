@@ -2,8 +2,10 @@
 <p></p>
 <h3 align="center">A passionate Frontend developer from VietNam</h3>
 <p></p>
-- 💬 Ask me about **React, Next.js**
-- 📫 How to reach me **vhu2y571990@gmail.com**
+<ul>
+  <li>- 💬 Ask me about **React, Next.js**</li>
+  <li>- 📫 How to reach me **vhu2y571990@gmail.com**</li>
+</ul>
 
 <!--
 **vhuy257/vhuy257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
