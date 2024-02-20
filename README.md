@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
+<h3 align="center">A passionate Frontend developer from VietNam</h3>
+- 💬 Ask me about **React, Next.js**
+- 📫 How to reach me **vhu2y571990@gmail.com**
 
 <!--
 **vhuy257/vhuy257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
